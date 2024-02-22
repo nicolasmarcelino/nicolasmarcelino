@@ -1,5 +1,7 @@
 🔄 Previously active on [nicolasmarcelin0](https://github.com/nicolasmarcelin0)
 
+🌱 Aspiring developer
+
 🕸️ Experience with web development
 
 🎓 Graduated from a technical IT course
