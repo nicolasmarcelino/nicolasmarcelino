@@ -1,14 +1,6 @@
 🔄 Previously active on [nicolasmarcelin0](https://github.com/nicolasmarcelin0)
 
-🌱 Aspiring developer
-
-🕸️ Experience with web development
-
-🎓 Graduated from a technical IT course
+💻 I am a computer technician with a focus on software development, and I am currently studying Computer Science
 
 🎬 Contributed to 
-[Ciné](https://github.com/Sapucai-Socket/New-Website-Movie) - a platform for movie enthusiasts to share reviews, utilizing React & Firebase
-
-🚀 Eager to explore new frameworks, languages, and dive deep into projects, with an aim to broaden my horizons in both technology & UX
-
-💬 I believe that clear communication and a humble attitude really help teamwork
+[Ciné](https://github.com/Sapucai-Socket/New-Website-Movie) - a platform for movie enthusiasts to share reviews built with React and Firebase
