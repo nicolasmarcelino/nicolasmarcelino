@@ -1,6 +1,8 @@
-🔄 Previously active on [nicolasmarcelin0](https://github.com/nicolasmarcelin0)
+🔄 Formerly [nicolasmarcelin0](https://github.com/nicolasmarcelin0)
 
-💻 I'm a computer technician focused on software development, and I'm currently pursuing a degree in Computer Science
+💻 Computer technician
+
+🎓 CS undergrad
 
 🎬 Contributed to 
-[Ciné](https://github.com/Sapucai-Socket/New-Website-Movie) - a platform for movie enthusiasts to write reviews built with React and Firebase
+[Ciné](https://github.com/Sapucai-Socket/New-Website-Movie)
